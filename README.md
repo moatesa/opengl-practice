@@ -1,0 +1,1 @@
+This is a personal C++ project for me to learn cmake and opengl.
